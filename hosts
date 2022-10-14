@@ -1,1 +1,4 @@
 [clients]
+192.168.178.49 # fedora-ryzen
+192.168.178.2 # homeserver
+192.168.178.35 # fedora-x230T

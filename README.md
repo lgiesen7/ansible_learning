@@ -3,5 +3,5 @@ This is a testing and learning environment for Ansible. The task is to deploy Ka
 ## Host file
 ```
 echo "[clients]" > hosts
-echo "-some IP adresses-" >> hosts
+echo "\n-some IP adresses-" >> hosts
 ```
